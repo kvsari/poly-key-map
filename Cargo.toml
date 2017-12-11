@@ -1,0 +1,6 @@
+[package]
+name = "poly-key-map"
+version = "0.1.0"
+authors = ["Stephan Luther <sl@debit.co.jp>"]
+
+[dependencies]
